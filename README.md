@@ -6,6 +6,7 @@ This is a SVG logo generator that is made using Node.js and javascript.
 ## Installation
 - Install node.js on your computer.
 - Open any code editor, for example VSCode.
+- Open this project folder with the code editor.
 - Right click the index.js file folder and choose open in intergrated terminal.
 - Type node index.js and the terminal should run the program for you.
 
