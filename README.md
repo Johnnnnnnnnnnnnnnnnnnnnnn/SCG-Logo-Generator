@@ -1,4 +1,4 @@
-# SCG-Logo-Generator
+# SVG-Logo-Generator
 
 ## Description
 This is a SVG logo generator that is made using Node.js and javascript.
