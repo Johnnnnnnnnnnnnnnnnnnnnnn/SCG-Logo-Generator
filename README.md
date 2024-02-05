@@ -13,5 +13,5 @@ This is a SVG logo generator that is made using Node.js and javascript.
 ## Usage
 Is to be used to quickly a SVG logo file for a project.
 
-## Project Video Link
+## Project Demo Video Link
 https://drive.google.com/file/d/12qvWqQ4AyCSw84Ysa2XGnW0DKaq4QT6q/view?usp=drive_link
